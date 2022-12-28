@@ -50,7 +50,7 @@ you have any questions, please feel free to reach out to us.
   * Validity of Propositional Logic
   * Syllogism
   * Rules of Inference
-  * Modus Pones
+  * Modus Ponens
   * Modus Tollens
   * Generalization
   * Specialization
